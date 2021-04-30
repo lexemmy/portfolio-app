@@ -28,7 +28,7 @@ class App extends StatelessWidget {
                   backgroundImage: AssetImage('images/me.jpg'),
                 ),
                 Text(
-                  'adeleye',
+                  'adeleye. l',
                   style: TextStyle(
                     fontFamily: 'Pacifico',
                     fontSize: 40.0,
